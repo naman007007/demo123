@@ -1,0 +1,64 @@
+.css-1vqsgbx {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+.css-auue23 {
+    transition-duration: 150ms;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);;
+    cursor: pointer;
+    outline: transparent solid 2px;
+    outline-offset: 2px;
+    color: inherit;
+    text-decoration: none;
+}
+.css-huc592 {
+    object-fit: cover;
+    transform: scale(1);
+    width: 100%;
+    height: 60vh;
+    transition: all 0.3s ease-in-out 0s;
+    
+
+}
+.css-huc592:hover, .css-huc592[data-hover] {
+    transform: scale(1.05);
+}
+.css-auue23 .img {
+    display: block;
+    overflow: clip;
+    max-width: 100%;
+    height: auto;
+    
+}
+.css-119hn4q {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+.linkable:hover {
+    background: rgba(0, 0, 0, 0.12);
+}
+.linkable {
+    display: inline-flex;
+    appearance: none;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    user-select: none;
+    position: relative;
+    white-space: nowrap;
+    vertical-align: middle;
+    outline: transparent solid 2px;
+    outline-offset: 2px;
+    line-height: 1.2;
+    font-weight: 600;
+    transition-duration: 200ms;
+    height: 3rem;
+    min-width: 3rem;
+    font-size: 1.125rem;
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
+    background: transparent;
+    padding: 0px;
+    border-radius: 9999px;
+}
